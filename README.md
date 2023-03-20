@@ -1,4 +1,4 @@
-# fromage
+# FRENCH-TIME
 Time in French, since 1982.
 
 ## Project setup
